@@ -1,0 +1,114 @@
+body {
+  background-color: #fdf1dc;
+  font-family: 'Poppins', sans-serif;
+}
+    
+.title {
+  font-family: 'tektur' ,Sans-Serif;
+  font-weight: 800;
+  color: #ff9800;
+}
+    
+.lead {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #6b4f2d;
+  font-style: italic;
+  margin-top: 10px;
+  letter-spacing: 0.5px;
+}
+    
+#logo{
+  border-radius:50%;
+  justify-content: center;
+  align-content: center;
+  width: 15rem;
+}
+
+.about-section {
+  background-color: #fff3d4;
+  padding: 50px 20px;
+  border-top: 3px dashed #ffb84d;
+  border-bottom: 3px dashed #ffb84d;
+}
+
+.menu-title {
+  font-family: 'tektur' ,Sans-Serif;
+  font-weight: 800;
+  color: #ff9800;
+  margin-top: 5rem;
+}
+
+.menu-card {
+  background: #fff5e6;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 1rem;
+}
+
+.menu-img {
+  border-radius: 15px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.price{
+  background-color: #ff9800;
+  border: 3px dashed black;
+  border-radius: 10px;
+  text-align: center;
+}
+
+
+#contact {
+  margin-top: 5rem;
+  background-color: #fffbea;
+  color: #4b3f2f;
+  font-family: 'Tektur', sans-serif;
+  border-top: 5px dashed #e69500;
+  border-bottom: 5px dashed #e69500;
+}
+
+#contact h2 {
+  font-size: 2.2rem;
+  color: #e69500;
+  font-weight: 700;
+}
+
+.contact-info p {
+  font-size: 1.1rem;
+  margin: 8px 0;
+}
+
+.wa-link {
+  text-decoration: none;
+  color: #1ebea5;
+  font-weight: bold;
+}
+
+.wa-link:hover {
+  color: #128c7e;
+}
+
+
+.footer {
+  background-color: #f8e8c0;
+  color: #5a4325;
+  font-family: 'Poppins', sans-serif;
+  border-top: 2px dashed #e0c68d;
+}
+
+.footer-link {
+  color: #e69500;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.footer-link:hover {
+  color: #bf7300;
+  text-decoration: underline;
+}
+
+.footer p {
+  margin: 5px 0;
+}
